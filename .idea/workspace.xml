@@ -7,9 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/demo03.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -36,19 +34,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/code/JavaSE/Simple/src/basic",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/JavaSE/Simple/src/basic&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\JavaSE\Simple\src\basic" />
@@ -59,13 +57,13 @@
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchDemo02">
-    <configuration name="IfDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.IfDemo02" />
+  <component name="RunManager" selected="Application.com.collection.Demo3">
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Demo2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.struct.*" />
+          <option name="PATTERN" value="com.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.IfDemo03" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.commonClass.chapter07.Demo4" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.struct.*" />
+          <option name="PATTERN" value="com.commonClass.chapter07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.SwitchDemo01" />
+    <configuration name="com.collection.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Demo1" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.struct.*" />
+          <option name="PATTERN" value="com.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.SwitchDemo02" />
+    <configuration name="com.collection.Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Demo3" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.struct.*" />
+          <option name="PATTERN" value="com.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.vir_l.struct.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.Demo01" />
+    <configuration name="com.commonClass.chapter06.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.commonClass.chapter06.Demo2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.struct.*" />
+          <option name="PATTERN" value="com.commonClass.chapter06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchDemo02" />
-        <item itemvalue="Application.SwitchDemo01" />
-        <item itemvalue="Application.IfDemo03" />
-        <item itemvalue="Application.com.vir_l.struct.Demo01" />
-        <item itemvalue="Application.IfDemo02" />
+        <item itemvalue="Application.com.collection.Demo3" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.com.collection.Demo1" />
+        <item itemvalue="Application.com.commonClass.chapter06.Demo2" />
+        <item itemvalue="Application.Demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +154,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Syntax/src/com/vir_l/array/ArrayDemo04.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Syntax/src/com/commonClass/chapter04/TestOuter.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Syntax/src/com/commonClass/chapter01/Student.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Syntax/src/com/commonClass/chapter05/TestUsb.java</url>
+          <line>3</line>
+          <properties class="com.commonClass.chapter05.TestUsb" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
