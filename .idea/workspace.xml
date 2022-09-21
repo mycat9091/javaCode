@@ -6,12 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/scanner/demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/demo03.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "D:/code/JavaSE/Simple/src/basic",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.intentionPowerPack"
@@ -56,16 +54,18 @@
       <recent name="D:\code\JavaSE\Simple\src\basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\JavaSE\out\production\Syntax\com\vir_l\scanner" />
+      <recent name="D:\code\JavaSE\out\production\Syntax\com\vir_l" />
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo03">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.Demo01" />
+  <component name="RunManager" selected="Application.SwitchDemo02">
+    <configuration name="IfDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.IfDemo02" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="com.vir_l.struct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.Demo02" />
+    <configuration name="IfDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.IfDemo03" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="com.vir_l.struct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.operator.Demo07" />
+    <configuration name="SwitchDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.SwitchDemo01" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.operator.*" />
+          <option name="PATTERN" value="com.vir_l.struct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vir_l.operator.Demo08" />
+    <configuration name="SwitchDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.SwitchDemo02" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vir_l.operator.*" />
+          <option name="PATTERN" value="com.vir_l.struct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.demo03" />
+    <configuration name="com.vir_l.struct.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vir_l.struct.Demo01" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="com.vir_l.struct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo03" />
-        <item itemvalue="Application.Demo02" />
-        <item itemvalue="Application.Demo01" />
-        <item itemvalue="Application.Demo08" />
-        <item itemvalue="Application.Demo07" />
+        <item itemvalue="Application.SwitchDemo02" />
+        <item itemvalue="Application.SwitchDemo01" />
+        <item itemvalue="Application.IfDemo03" />
+        <item itemvalue="Application.com.vir_l.struct.Demo01" />
+        <item itemvalue="Application.IfDemo02" />
       </list>
     </recent_temporary>
   </component>
