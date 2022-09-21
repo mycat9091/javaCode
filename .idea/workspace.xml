@@ -7,14 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/List/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/List/DemoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/List/DemoLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -11,7 +11,7 @@ import java.util.LinkedList;
 public class DemoLinkedList {
     public static void main(String[] args) {
 
-        //创建集合
+        //创建集合gi
         LinkedList linkedList = new LinkedList<>();
         //添加元素
         Student s1 = new Student("AAA",20);
