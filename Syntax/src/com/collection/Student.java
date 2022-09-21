@@ -38,6 +38,27 @@ public class Student {
                 ", age=" + age +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        //判断是不是同一个对象
+        if (this==obj) {
+            return true;
+        }
+        //判断是否为空
+        if (obj==null) {
+            return false;
+        }
+        //判断是否为Student类型
+        if (obj instanceof Student) {
+            Student s = (Student)obj;
+            //比较属性
+            if (this.name.equals(s.getName())&&this.age==s.getAge())
+                return true;
+        }
+        //不满足条件返回false
+        return false;
+    }
 }
 
 

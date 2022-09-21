@@ -5,8 +5,16 @@
     <option name="CUSTOM_SCOPE_NAME" value="Only changes uncommitted to VCS in file …\Syntax\src\com\vir_l\basic\Doc.java [Syntax]" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="">
+    <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/List/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/vir_l/scanner/demo03.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +65,26 @@
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.collection.Demo3">
+  <component name="RunManager" selected="Application.DemoVector">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.Demo1" />
+      <module name="Syntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.Demo2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.*" />
+          <option name="PATTERN" value="com.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.commonClass.chapter07.Demo4" />
+    <configuration name="DemoArrayL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.DemoArrayL" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.commonClass.chapter07.*" />
+          <option name="PATTERN" value="com.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.collection.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Demo1" />
+    <configuration name="DemoVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.DemoVector" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.*" />
+          <option name="PATTERN" value="com.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,25 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.collection.Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Demo3" />
+    <configuration name="com.collection.List.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.List.Demo2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.commonClass.chapter06.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.commonClass.chapter06.Demo2" />
-      <module name="Syntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.commonClass.chapter06.*" />
+          <option name="PATTERN" value="com.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.collection.Demo3" />
+        <item itemvalue="Application.DemoVector" />
+        <item itemvalue="Application.DemoArrayL" />
+        <item itemvalue="Application.com.collection.List.Demo2" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.com.collection.Demo1" />
-        <item itemvalue="Application.com.commonClass.chapter06.Demo2" />
-        <item itemvalue="Application.Demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +167,7 @@
     <MESSAGE value="updata" />
     <MESSAGE value="java_not" />
     <option name="LAST_COMMIT_MESSAGE" value="java_not" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

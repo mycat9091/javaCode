@@ -1,11 +1,10 @@
-package com.collection;
+package com.collection.List;
 
 import java.util.ArrayList;
 
 import java.util.List;
 
 import java.util.Iterator;
-import java.util.List;
 import java.util.ListIterator;
 
 
@@ -13,7 +12,7 @@ import java.util.ListIterator;
  * List子接口的使用
  * 特点：1、有序有下标 2、可重复
  */
-public class Demo3 {
+public class Demo1 {
     public static void main(String[] args) {
         //先创建集合对象
         List list = new ArrayList<>();
@@ -25,18 +24,14 @@ public class Demo3 {
         System.out.println("元素个数" + list.size());
         System.out.println(list.toString());
         //删除元素
-        list.remove("苹果");
-        list.remove(0);
-        System.out.println("删除之后" + list.size());
-        System.out.println(list.toString());
-
-        System.out.println("元素个数：" + list.size());
-        System.out.println(list.toString());
-        //删除元素
 //        list.remove("苹果");
 //        list.remove(0);
-//        System.out.println("删除之后：" + list.size());
+//        System.out.println("删除之后" + list.size());
 //        System.out.println(list.toString());
+//
+//        System.out.println("元素个数：" + list.size());
+//        System.out.println(list.toString());
+
         //遍历
         System.out.println("使用for循环");
         for (int i=0; i<list.size(); i++){
