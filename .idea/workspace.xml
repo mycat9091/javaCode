@@ -7,6 +7,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/List/DemoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/List/DemoLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Demo6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +63,13 @@
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoVector">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.Demo1" />
+  <component name="RunManager" selected="Application.DemoHashSet_2">
+    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoHashSet" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="PATTERN" value="com.collection.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Demo2" />
+    <configuration name="DemoHashSet_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoHashSet_2" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="PATTERN" value="com.collection.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoArrayL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.DemoArrayL" />
+    <configuration name="DemoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoSet" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="PATTERN" value="com.collection.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.DemoVector" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Generic.MyArrayList" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="PATTERN" value="com.collection.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.collection.List.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.List.Demo2" />
+    <configuration name="TestGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Generic.TestGeneric" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.List.*" />
+          <option name="PATTERN" value="com.collection.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoVector" />
-        <item itemvalue="Application.DemoArrayL" />
-        <item itemvalue="Application.com.collection.List.Demo2" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.DemoHashSet_2" />
+        <item itemvalue="Application.DemoHashSet" />
+        <item itemvalue="Application.DemoSet" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="Application.TestGeneric" />
       </list>
     </recent_temporary>
   </component>
