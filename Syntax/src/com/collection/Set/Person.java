@@ -1,5 +1,7 @@
 package com.collection.Set;
 
+import java.util.Objects;
+
 public class Person {
     private String name;
     private int age;
@@ -35,5 +37,48 @@ public class Person {
                 ", age=" + age +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Person person = (Person) o;
+        return age == person.age && name.equals(person.name);
+    }
+
+    @Override
+    public int hashCode() {
+
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + age;
+        result = prime * result + ((name == null) ? 0 : name.hashCode());
+        return result;
+    }
+
+    //    @Override
+//    public int hashCode() {
+//        int n1 = this.name.hashCode();
+//        int n2 = this.age;
+//        return n1 + n2;
+//    }
+//
+//    @Override
+//    public boolean equals(Object obj) {
+//        if (this==obj) {
+//            return true;
+//        }
+//        if (obj==null) {
+//            return false;
+//        }
+//        if (obj instanceof Person) {
+//            Person p = (Person)obj;
+//
+//            if (this.name.equals(p.getName())&&this.age== p.getAge()){
+//                return true;
+//            }
+//        }
+//        return false;
+//    }
 }
 

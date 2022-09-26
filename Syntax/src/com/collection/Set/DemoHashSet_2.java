@@ -1,6 +1,7 @@
 package com.collection.Set;
 
 import java.util.HashSet;
+import java.util.Iterator;
 
 /**
  * HashSet的使用
@@ -26,6 +27,21 @@ public class DemoHashSet_2 {
         System.out.println("数据个数:" + person.size());
         System.out.println(person.toString());
         //删除数据
+        person.remove(p4);
+        System.out.println("删除之后:" + person.size());
+        System.out.println(person.toString());
 
+        //遍历*
+        //增强for
+        System.out.println("增强for");
+        for (Person person1 : person) {
+            System.out.println(person1.toString());
+        }
+        //遍历
+        System.out.println("遍历");
+        Iterator it = person.iterator();
+        while (it.hasNext()) {
+            System.out.println(it.next());
+        }
     }
 }
