@@ -2,7 +2,7 @@ package com.collection.Set;
 
 import java.util.Objects;
 
-public class Person {
+public class Person implements Comparable<Person>{
     private String name;
     private int age;
 
@@ -54,6 +54,14 @@ public class Person {
         result = prime * result + age;
         result = prime * result + ((name == null) ? 0 : name.hashCode());
         return result;
+    }
+
+    @Override
+    public int compareTo(Person o) {
+        int n1 = this.getName().compareTo(o.getName());
+        int n2 = this.age-getAge();
+
+        return n1==0 ? n2:n1;
     }
 
     //    @Override

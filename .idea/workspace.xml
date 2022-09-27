@@ -7,7 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Set/DemoHashSet_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Set/DemoHashSet_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Set/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Set/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +58,7 @@
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoHashSet_2">
-    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoHashSet" />
-      <module name="Syntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoTreeSetCase">
     <configuration name="DemoHashSet_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoHashSet_2" />
       <module name="Syntax" />
@@ -86,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoSet" />
+    <configuration name="DemoTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSet" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Generic.MyArrayList" />
+    <configuration name="DemoTreeSetCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSetCase" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.Generic.*" />
+          <option name="PATTERN" value="com.collection.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Generic.TestGeneric" />
+    <configuration name="DemoTreeSetComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSetComparator" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collection.Generic.*" />
+          <option name="PATTERN" value="com.collection.Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTreeSet_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSet_2" />
+      <module name="Syntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoTreeSetCase" />
+        <item itemvalue="Application.DemoTreeSetComparator" />
+        <item itemvalue="Application.DemoTreeSet_2" />
+        <item itemvalue="Application.DemoTreeSet" />
         <item itemvalue="Application.DemoHashSet_2" />
-        <item itemvalue="Application.DemoHashSet" />
-        <item itemvalue="Application.DemoSet" />
-        <item itemvalue="Application.MyArrayList" />
-        <item itemvalue="Application.TestGeneric" />
       </list>
     </recent_temporary>
   </component>
