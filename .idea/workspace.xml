@@ -7,6 +7,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Map/DemoHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Map/DemoHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/collection/Map/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/collection/Map/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Map/DemoHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Map/DemoHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/Map/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/Map/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +60,24 @@
       <recent name="D:\code\JavaSE\out\production\Syntax\com\vir_l" />
       <recent name="D:\code\JavaSE\Syntax" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.collection.Map" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DemoHashMap">
+  <component name="RunManager" selected="Application.DemoCollectionsToolClass">
+    <configuration name="DemoCollectionsToolClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.DemoCollectionsToolClass" />
+      <module name="Syntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.Map.DemoHashMap" />
       <module name="Syntax" />
@@ -84,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.Map.DemoTreeMap" />
+      <module name="Syntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoTreeSetCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSetCase" />
       <module name="Syntax" />
@@ -97,39 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTreeSetComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSetComparator" />
-      <module name="Syntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoTreeSet_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection.Set.DemoTreeSet_2" />
-      <module name="Syntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoCollectionsToolClass" />
+        <item itemvalue="Application.DemoTreeMap" />
         <item itemvalue="Application.DemoHashMap" />
         <item itemvalue="Application.DemoMap" />
         <item itemvalue="Application.DemoTreeSetCase" />
-        <item itemvalue="Application.DemoTreeSetComparator" />
-        <item itemvalue="Application.DemoTreeSet_2" />
       </list>
     </recent_temporary>
   </component>

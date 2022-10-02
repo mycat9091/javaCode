@@ -2,7 +2,7 @@ package com.collection.Map;
 
 import java.util.Objects;
 
-public class Student {
+public class Student implements Comparable<Student>{
     private String name;
     private int stuId;
 
@@ -49,5 +49,11 @@ public class Student {
                 "name='" + name + '\'' +
                 ", stuId=" + stuId +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        int n1 = this.stuId-o.getStuId();
+        return n1;
     }
 }

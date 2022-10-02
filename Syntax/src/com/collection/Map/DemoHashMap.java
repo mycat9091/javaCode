@@ -13,6 +13,7 @@ public class DemoHashMap {
 
         //创建集合
         HashMap<Student,String> student = new HashMap<>();
+        //刚创建HashMap没有添加元素时，table=null，size=0
         //添加元素
         Student s1 = new Student("孙悟空",1001);
         Student s2 = new Student("猪八戒",1002);
