@@ -1,4 +1,6 @@
-package com.io;
+package com.io.ByteStream;
+
+import com.io.IOStudent;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;

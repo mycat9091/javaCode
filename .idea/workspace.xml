@@ -7,7 +7,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a85a7766-0722-447c-b078-ed73b982dad2" name="Changes" comment="java_not">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/collection/DemoCollectionsToolClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Syntax/com/collection/DemoCollectionsToolClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoBufferedInputSteam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoBufferedInputSteam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoBufferedOutputSteam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoBufferedOutputSteam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoFileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoFileByteStreamCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoFileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoFileInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoFileOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoObjectInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoObjectInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/src/com/io/DemoObjectOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/src/com/io/ByteStream/DemoObjectOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Syntax/com/io/DemoFileCopy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +42,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/code/JavaSE/Simple/src/basic",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/JavaSE/Simple/src/basic&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\JavaSE\Simple\src\basic" />
@@ -61,13 +68,13 @@
       <recent name="com.collection.Map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoObjectInputStream">
-    <configuration name="DemoBufferedInputSteam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.io.DemoBufferedInputSteam" />
+  <component name="RunManager" selected="Application.DemoPrintWriter">
+    <configuration name="DemoBufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.io.CharStream.DemoBufferedReader" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.io.*" />
+          <option name="PATTERN" value="com.io.CharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoBufferedOutputSteam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.io.DemoBufferedOutputSteam" />
+    <configuration name="DemoBufferedWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.io.CharStream.DemoBufferedWriter" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.io.*" />
+          <option name="PATTERN" value="com.io.CharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoFileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.io.DemoFileCopy" />
+    <configuration name="DemoFileCharStreamCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.io.CharStream.DemoFileCharStreamCopy" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.io.*" />
+          <option name="PATTERN" value="com.io.ByteStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoObjectInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.io.DemoObjectInputStream" />
+    <configuration name="DemoFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.io.CharStream.DemoFileWriter" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.io.*" />
+          <option name="PATTERN" value="com.io.ByteStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoObjectOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.io.DemoObjectOutputStream" />
+    <configuration name="DemoPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.io.CharStream.DemoPrintWriter" />
       <module name="Syntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.io.*" />
+          <option name="PATTERN" value="com.io.CharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoObjectInputStream" />
-        <item itemvalue="Application.DemoObjectOutputStream" />
-        <item itemvalue="Application.DemoBufferedOutputSteam" />
-        <item itemvalue="Application.DemoBufferedInputSteam" />
-        <item itemvalue="Application.DemoFileCopy" />
+        <item itemvalue="Application.DemoPrintWriter" />
+        <item itemvalue="Application.DemoBufferedWriter" />
+        <item itemvalue="Application.DemoBufferedReader" />
+        <item itemvalue="Application.DemoFileCharStreamCopy" />
+        <item itemvalue="Application.DemoFileWriter" />
       </list>
     </recent_temporary>
   </component>

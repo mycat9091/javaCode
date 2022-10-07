@@ -1,4 +1,4 @@
-package com.io;
+package com.io.ByteStream;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 /**
  * 使用文件字节流实现文件的复制
  */
-public class DemoFileCopy {
+public class DemoFileByteStreamCopy {
     public static void main(String[] args) throws Exception{
 
         //创建流
